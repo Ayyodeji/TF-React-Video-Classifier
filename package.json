@@ -2,9 +2,9 @@
   "name": "tfclassifier",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ayyodeji.github.io/reactTfClassifier",
+  "homepage": "https://ayyodeji.github.io/TF-React-Video-Classifier",
   "repository": {
-    "url": "https://github.com/Ayyodeji/reactTfClassifier"
+    "url": "https://github.com/Ayyodeji/TF-React-Video-Classifier"
   },
   "dependencies": {
     "@tensorflow-models/knn-classifier": "^1.0.0",
