@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TF-React-Video-Classifier/precache-manifest.723c3ef1f7779952361dc35d1fbaf007.js"
+  "/TF-React-Video-Classifier/precache-manifest.b77db9289b972a7c83ac90b9df0d1c6a.js"
 );
 
 self.addEventListener('message', (event) => {
