@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a75d52a0ab675325ebc307d9edc21121",
+    "revision": "e78090f2413761a5d60d378559075169",
     "url": "/TF-React-Video-Classifier/index.html"
   },
   {
-    "revision": "af054ab7cbe111c7ba72",
-    "url": "/TF-React-Video-Classifier/static/css/main.efa3b78c.chunk.css"
+    "revision": "d852fd5f1147eedcfcbf",
+    "url": "/TF-React-Video-Classifier/static/css/main.de3cc0a8.chunk.css"
   },
   {
     "revision": "5a421579a98c77aa16c5",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TF-React-Video-Classifier/static/js/3.ef47b266.chunk.js"
   },
   {
-    "revision": "af054ab7cbe111c7ba72",
+    "revision": "d852fd5f1147eedcfcbf",
     "url": "/TF-React-Video-Classifier/static/js/main.9d237c06.chunk.js"
   },
   {

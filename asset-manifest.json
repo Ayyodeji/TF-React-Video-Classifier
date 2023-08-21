@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TF-React-Video-Classifier/static/css/main.efa3b78c.chunk.css",
+    "main.css": "/TF-React-Video-Classifier/static/css/main.de3cc0a8.chunk.css",
     "main.js": "/TF-React-Video-Classifier/static/js/main.9d237c06.chunk.js",
     "main.js.map": "/TF-React-Video-Classifier/static/js/main.9d237c06.chunk.js.map",
     "runtime~main.js": "/TF-React-Video-Classifier/static/js/runtime~main.933829d2.js",
@@ -10,8 +10,8 @@
     "static/js/3.ef47b266.chunk.js": "/TF-React-Video-Classifier/static/js/3.ef47b266.chunk.js",
     "static/js/3.ef47b266.chunk.js.map": "/TF-React-Video-Classifier/static/js/3.ef47b266.chunk.js.map",
     "index.html": "/TF-React-Video-Classifier/index.html",
-    "precache-manifest.55203ec1ce73e739837e6f96a2335c23.js": "/TF-React-Video-Classifier/precache-manifest.55203ec1ce73e739837e6f96a2335c23.js",
+    "precache-manifest.aed4899e8d63adafae362e6c66524643.js": "/TF-React-Video-Classifier/precache-manifest.aed4899e8d63adafae362e6c66524643.js",
     "service-worker.js": "/TF-React-Video-Classifier/service-worker.js",
-    "static/css/main.efa3b78c.chunk.css.map": "/TF-React-Video-Classifier/static/css/main.efa3b78c.chunk.css.map"
+    "static/css/main.de3cc0a8.chunk.css.map": "/TF-React-Video-Classifier/static/css/main.de3cc0a8.chunk.css.map"
   }
 }
