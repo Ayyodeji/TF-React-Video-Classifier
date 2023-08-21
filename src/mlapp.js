@@ -22,8 +22,8 @@ class Mlapp extends Component {
       mediaControlReady: false,
       showDetails: false,
       videoSize: {
-        width: '80%',
-        height: '80%'
+        width: '90%',
+        height: '90%'
       },
       updateInstructionsState: async () => {
         try {
@@ -240,10 +240,10 @@ class Mlapp extends Component {
           <ul>
           {
             [
-              "Snap multiple views using the available buttons(in presented order as A -> B -> C) to recognize and learn, for each button hit - it would start displaying prediction with probability subsequently"
-              ,"For instance, capture the tilting faces in directions for buttons as Add A(left), Add B(center) and Add C(right) mutiple times i.e. atleast 3 times each or more is recommended (prediction is certainly more accurate the more image snapshots are learned)"
-              ,"Try tilting faces from left to right freely to show expected predictions or refine it further by continuing with the respective buttons as desired"
-              ,"All of the data from camera stream is processed and recognized to learn locally and is not stored or accessed on any remote server"
+              "Use the buttons given to take pictures from different angles, like A, B, and C in order. Each time you press a button, it will guess what it sees and show how confident it is in its guess.",
+              "For example, take a few pictures of faces tilted in different directions for each button, like Add A (left), Add B (center), and Add C (right). It's better to take at least 3 pictures for each button, or even more, because the guesses become more accurate with more pictures.",
+              "Try moving your face from side to side while taking pictures to see what the guesses are. You can keep using the buttons you used before to improve the guesses.",
+              "All the work to understand the pictures from the camera happens on your device, and no information is saved or sent to a faraway server."
             ].map((item, idx) => <li key={idx} >{item}</li>)
           }
           </ul>
@@ -255,7 +255,7 @@ class Mlapp extends Component {
   footerComponent() {
     return (
     <div className="footer">
-      Project available on github <a href="https://github.com/NileshSP/reactTfClassifier" target="_blank" rel="noopener noreferrer" >@NileshSP/reactTfClassifier</a> 
+      Project available on github <a href="https://github.com/Ayyodeji/TF-React-Video-Classifier" target="_blank" rel="noopener noreferrer" >@ayydeji/TF-React-Video-Classifier</a> 
     </div>
     )
   }
