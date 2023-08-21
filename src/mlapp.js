@@ -22,8 +22,8 @@ class Mlapp extends Component {
       mediaControlReady: false,
       showDetails: false,
       videoSize: {
-        width: '95%',
-        height: '95%'
+        width: '80%',
+        height: '80%'
       },
       updateInstructionsState: async () => {
         try {
