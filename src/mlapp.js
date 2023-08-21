@@ -22,8 +22,8 @@ class Mlapp extends Component {
       mediaControlReady: false,
       showDetails: false,
       videoSize: {
-        width: '80%',
-        height: '80%'
+        width: '95%',
+        height: '95%'
       },
       updateInstructionsState: async () => {
         try {
@@ -255,7 +255,7 @@ class Mlapp extends Component {
   footerComponent() {
     return (
     <div className="footer">
-      Project available on github <a href="https://github.com/NileshSP/reactTfClassifier" target="_blank" rel="noopener noreferrer" >@NileshSP/reactTfClassifier</a> 
+      Project available on github <a href="https://github.com/Ayyodeji/" target="_blank" rel="noopener noreferrer" ></a> 
     </div>
     )
   }
