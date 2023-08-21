@@ -255,7 +255,7 @@ class Mlapp extends Component {
   footerComponent() {
     return (
     <div className="footer">
-      Project available on github <a href="https://github.com/Ayyodeji/" target="_blank" rel="noopener noreferrer" ></a> 
+      Project available on github <a href="https://github.com/Ayyodeji/" target="_blank" rel="noopener noreferrer" > @ayyodeji </a> 
     </div>
     )
   }
